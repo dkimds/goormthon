@@ -5,3 +5,5 @@ AI boot camp training
 
 ## PBL2
 네이버 뉴스 카테고리 분류기 만들기
+## PBL3
+한국어 word2vec 만들기
