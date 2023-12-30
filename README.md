@@ -7,3 +7,6 @@ AI boot camp training
 네이버 뉴스 카테고리 분류기 만들기
 ## PBL3
 한국어 word2vec 만들기
+
+## PBL4
+한국어 혐오데이터 분류모델 만들기
