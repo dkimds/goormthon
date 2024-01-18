@@ -10,3 +10,6 @@ AI boot camp training
 
 ## PBL4
 한국어 혐오데이터 분류모델 만들기
+
+## Semi-proj
+머신 러닝 파이프라인 만들기
