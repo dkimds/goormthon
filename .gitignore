@@ -1,4 +1,5 @@
 *.csv
 .DS_Store
 PBL3/.DS_Store
-Semi-proj.zip
+
+*.zip
