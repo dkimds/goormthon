@@ -13,3 +13,9 @@ AI boot camp training
 
 ## Semi-proj
 머신 러닝 파이프라인 만들기
+
+## Fin-proj
+뉴스와 LLM을 활용한 주식매매 타이밍 시스템
+
+## APIs, TFCert
+Unrelated.
