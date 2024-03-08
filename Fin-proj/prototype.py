@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1lpH2kpkj9sf0ViO85FrVN8n0zsvERcWi
 """
 
-!pip install -q transformers[torch]
+# !pip install -q transformers[torch]
 
 from transformers import pipeline
 from transformers import AutoTokenizer, AutoModelForTokenClassification
