@@ -1,7 +1,6 @@
-*.xlsx
 *.csv
+*.xlsx
 .DS_Store
-
 *.zip
 /__pycache__
 *.db
