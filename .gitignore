@@ -5,5 +5,5 @@
 /__pycache__
 *.db
 *.h5
-Practice/Part6/mnist/data
+Practice/Part6/mnist
 Practice/Part6/saved_models
