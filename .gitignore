@@ -1,3 +1,4 @@
+*.pkl
 *.csv
 *.xlsx
 .DS_Store
@@ -7,3 +8,6 @@
 *.h5
 Practice/Part6/mnist
 Practice/Part6/saved_models
+Practice/Appendix/models
+Practice/Appendix/data_food101
+Practice/Appendix/data
