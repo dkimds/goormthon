@@ -17,5 +17,5 @@ AI boot camp training
 ## Fin-proj
 뉴스와 LLM을 활용한 주식매매 타이밍 시스템
 
-## APIs, TFCert
-Unrelated.
+## TFCert
+텐서플로우 개발자 인증시험 연습
